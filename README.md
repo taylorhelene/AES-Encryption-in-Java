@@ -1,6 +1,6 @@
 ## Getting Started
 
-##AES ENCRYPTION
+## AES ENCRYPTION
 
 terminal output message:
 
